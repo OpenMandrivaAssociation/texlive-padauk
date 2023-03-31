@@ -1,6 +1,6 @@
 Name:		texlive-padauk
 Version:	42617
-Release:	1
+Release:	2
 Summary:	A high-quality TrueType font that supports the many diverse languages that use the Myanmar script
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/padauk
