@@ -3,7 +3,7 @@ Version:	42617
 Release:	2
 Summary:	A high-quality TrueType font that supports the many diverse languages that use the Myanmar script
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/padauk
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/padauk
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/padauk.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/padauk.doc.r%{version}.tar.xz
